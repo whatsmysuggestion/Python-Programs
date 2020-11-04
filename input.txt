@@ -1,0 +1,14 @@
+Port Name Status Vlan Duplex Speed Type
+Fa0/1 ARAA7-0A-FACC1240- connected 500 a-full a-100 10/100BaseTX
+Fa0/2 ARAA7-0A-FACC1240- notconnect 500 auto auto 10/100BaseTX
+Fa0/3 ARAA7-0A-FACC1240- connected 111 a-full a-100 10/100BaseTX
+Fa0/4 ARAA7-0A-FACC1240- connected 500 a-full a-100 10/100BaseTX
+Fa0/5 ARAA7-0A-FACC1240- connected 111 a-full a-100 10/100BaseTX
+Fa0/6 ARAA7-0A-FACC1240- connected 500 a-full a-100 10/100BaseTX
+Fa0/7 ARAA7-0A-FACC1240- connected 111 a-full a-100 10/100BaseTX
+Fa0/8 ARAA7-0A-FACC1240- connected 111 a-full a-100 10/100BaseTX
+Fa0/9 ARAA7-0A-FACC1240- notconnect 111 auto auto 10/100BaseTX
+Fa0/10 ARAA7-0A-FACC1240- notconnect 111 auto auto 10/100BaseTX
+Fa0/11 ARAA7-0A-FACC1240- connected 700 a-full a-100 10/100BaseTX
+Fa0/12 ARAA7-0A-FACC1240- connected 700 a-full a-100 10/100BaseTX
+Fa0/13 ARAA7-0A-FACC1240- connected 111 a-full a-100 10/100BaseTX

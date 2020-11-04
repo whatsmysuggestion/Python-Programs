@@ -1,0 +1,6 @@
+ff=open("b.txt","r")
+ff.seek(2,0)
+str=ff.read()
+#print(ff.tell())
+print(str)
+ff.close()
